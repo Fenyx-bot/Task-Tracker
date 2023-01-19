@@ -1,0 +1,16 @@
+C:\Users\ALPHA\source\repos\ToDoListConsole\bin\Debug\net5.0\ToDoListConsole.exe
+C:\Users\ALPHA\source\repos\ToDoListConsole\bin\Debug\net5.0\ToDoListConsole.deps.json
+C:\Users\ALPHA\source\repos\ToDoListConsole\bin\Debug\net5.0\ToDoListConsole.runtimeconfig.json
+C:\Users\ALPHA\source\repos\ToDoListConsole\bin\Debug\net5.0\ToDoListConsole.runtimeconfig.dev.json
+C:\Users\ALPHA\source\repos\ToDoListConsole\bin\Debug\net5.0\ToDoListConsole.dll
+C:\Users\ALPHA\source\repos\ToDoListConsole\bin\Debug\net5.0\ref\ToDoListConsole.dll
+C:\Users\ALPHA\source\repos\ToDoListConsole\bin\Debug\net5.0\ToDoListConsole.pdb
+C:\Users\ALPHA\source\repos\ToDoListConsole\obj\Debug\net5.0\ToDoListConsole.csproj.AssemblyReference.cache
+C:\Users\ALPHA\source\repos\ToDoListConsole\obj\Debug\net5.0\ToDoListConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALPHA\source\repos\ToDoListConsole\obj\Debug\net5.0\ToDoListConsole.AssemblyInfoInputs.cache
+C:\Users\ALPHA\source\repos\ToDoListConsole\obj\Debug\net5.0\ToDoListConsole.AssemblyInfo.cs
+C:\Users\ALPHA\source\repos\ToDoListConsole\obj\Debug\net5.0\ToDoListConsole.csproj.CoreCompileInputs.cache
+C:\Users\ALPHA\source\repos\ToDoListConsole\obj\Debug\net5.0\ToDoListConsole.dll
+C:\Users\ALPHA\source\repos\ToDoListConsole\obj\Debug\net5.0\ref\ToDoListConsole.dll
+C:\Users\ALPHA\source\repos\ToDoListConsole\obj\Debug\net5.0\ToDoListConsole.pdb
+C:\Users\ALPHA\source\repos\ToDoListConsole\obj\Debug\net5.0\ToDoListConsole.genruntimeconfig.cache
